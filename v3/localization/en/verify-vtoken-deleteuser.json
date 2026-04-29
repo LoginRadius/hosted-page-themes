@@ -1,0 +1,9 @@
+{
+  "verify-vtoken-deleteuser": {
+    "title": "Deleting your Account",
+    "successTitle": "Account Deleted",
+    "errorTitle": "Deletion Failed",
+    "description": "Please wait while we process your account deletion request.",
+    "buttonText": "Back to login"
+  }
+}

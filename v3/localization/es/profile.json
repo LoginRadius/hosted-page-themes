@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "title": "Cuenta",
+    "description": "Administre la información de su cuenta.",
+    "buttonText": "Cerrar sesión",
+    "headerText": "Bienvenido",
+    "footerText": "Desarrollado por",
+    "sidepanelPrimaryText": "Mi cuenta",
+    "sidepanelSecondaryText": "Seguridad"
+  }
+}

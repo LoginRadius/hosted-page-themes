@@ -1,0 +1,7 @@
+{
+  "email-selector": {
+    "title": "Välj en e-postadress",
+    "description": "Välj den e-postadress dit du vill ta emot din engångskod (OTP).",
+    "footerLinkText": "Tillbaka till andra metoder"
+  }
+}

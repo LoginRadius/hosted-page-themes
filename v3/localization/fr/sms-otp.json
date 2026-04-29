@@ -1,0 +1,14 @@
+{
+  "sms-otp": {
+    "title": "Vérification OTP par SMS",
+    "description": "Entrez l'OTP envoyé à votre téléphone.",
+    "buttonText": "Vérifier OTP",
+    "backButtonText": "Retour aux autres méthodes",
+    "forgotButtonText": "Utiliser les codes de secours",
+    "footerText": "Vous n'avez pas reçu l'OTP ? Renvoyer via",
+    "footerLinkPrimaryText": "Code OTP par SMS",
+    "footerLinkSecondaryText": "Appel vocal",
+    "otpLabel": "Entrez l'OTP",
+    "separatorText": "OU"
+  }
+}

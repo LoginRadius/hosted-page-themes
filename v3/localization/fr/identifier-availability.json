@@ -1,0 +1,18 @@
+{
+  "identifier-availability": {
+    "title": "S’inscrire",
+    "description": "Bienvenue ! Veuillez remplir les informations pour créer un compte",
+    "buttonText": "Continuer",
+    "emailLabel": "Adresse e-mail",
+    "emailPlaceholder": "Entrez votre adresse e-mail",
+    "phoneLabel": "Numéro de téléphone",
+    "phonePlaceholder": "Entrez votre numéro de téléphone",
+    "usernameLabel": "Nom d'utilisateur",
+    "usernamePlaceholder": "Entrez votre nom d'utilisateur",
+    "emailUsernameLabel": "E-mail ou nom d'utilisateur",
+    "emailUsernamePlaceholder": "Entrez votre e-mail ou nom d'utilisateur",
+    "footerText": "Vous avez déjà un compte ?",
+    "footerLinkText": "Connexion",
+    "terms": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "sms-otp": {
+    "title": "التحقق من OTP عبر الرسائل القصيرة",
+    "description": "أدخل رمز OTP المرسل إلى هاتفك.",
+    "buttonText": "التحقق من OTP",
+    "backButtonText": "العودة إلى طرق أخرى",
+    "forgotButtonText": "استخدام رموز النسخ الاحتياطي",
+    "footerText": "لم تستلم رمز OTP؟ إعادة الإرسال عبر",
+    "footerLinkPrimaryText": "رمز SMS",
+    "footerLinkSecondaryText": "مكالمة صوتية",
+    "otpLabel": "أدخل رمز OTP",
+    "separatorText": "أو"
+  }
+}

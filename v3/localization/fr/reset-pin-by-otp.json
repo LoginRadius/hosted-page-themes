@@ -1,0 +1,16 @@
+{
+  "reset-pin-by-otp": {
+    "title": "Réinitialiser le code PIN",
+    "description": "Entrez l'OTP envoyé à votre email/téléphone pour réinitialiser votre code PIN.",
+    "buttonText": "Réinitialiser le code PIN",
+    "footerText": "Vous n'avez pas reçu l'OTP ?",
+    "footerLinkText": "Renvoyer",
+    "footerLinkSecondaryText": "Appel vocal",
+    "newPinLabel": "Nouveau code PIN",
+    "newPinPlaceholder": "Entrez votre nouveau code PIN",
+    "confirmPinLabel": "Confirmez le code PIN",
+    "confirmPinPlaceholder": "Confirmez votre nouveau code PIN",
+    "otpLabel": "Entrez l'OTP",
+    "separatorText": "OU"
+  }
+}

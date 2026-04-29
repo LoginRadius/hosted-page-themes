@@ -1,0 +1,12 @@
+{
+  "email-otp": {
+    "title": "E-post OTP-verifiering",
+    "description": "Ange OTP som skickats till din e-post.",
+    "buttonText": "Verifiera OTP",
+    "backButtonText": "Tillbaka till andra metoder",
+    "forgotButtonText": "Använd reservkoder",
+    "footerText": "Fick du inte OTP?",
+    "footerLinkText": "Skicka igen",
+    "otpLabel": "Ange OTP"
+  }
+}

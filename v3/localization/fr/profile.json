@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "title": "Compte",
+    "description": "Gérez les informations de votre compte.",
+    "buttonText": "Déconnexion",
+    "headerText": "Bienvenue",
+    "footerText": "Propulsé par",
+    "sidepanelPrimaryText": "Mon compte",
+    "sidepanelSecondaryText": "Sécurité"
+  }
+}

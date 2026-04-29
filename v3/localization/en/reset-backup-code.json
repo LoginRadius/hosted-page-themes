@@ -1,0 +1,14 @@
+{
+  "reset-backup-code": {
+    "title": "Reset Backup Code",
+    "resetButtonText": "Reset",
+    "copyButtonText": "Copy",
+    "closeButtonText": "Close",
+    "copySuccessText": "Copied to clipboard",
+    "resetSucceessMessage": "Backup code reset successfully. Copy the codes now as they will not be displayed again.",
+    "downloadButtonText": "Download Codes",
+    "downloadSuccessText": "Backup codes downloaded successfully",
+    "modalTitle": "Updated Codes",
+    "description": "The moment you generate new codes, all earlier codes become invalid."
+  }
+}

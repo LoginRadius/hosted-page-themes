@@ -1,0 +1,8 @@
+{
+  "account-restricted": {
+    "title": "Cuenta restringida temporalmente",
+    "description": "Su cuenta ha sido bloqueada temporalmente debido a múltiples intentos de inicio de sesión fallidos. Por razones de seguridad, complete el CAPTCHA a continuación para demostrar que es humano.",
+    "footerText": "¿Necesita ayuda? ",
+    "footerLinkText": "Contactar soporte"
+  }
+}

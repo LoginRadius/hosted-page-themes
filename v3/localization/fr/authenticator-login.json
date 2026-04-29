@@ -1,0 +1,10 @@
+{
+  "authenticator-login": {
+    "title": "Connexion Authenticator",
+    "description": "Entrez le code de votre application d'authentification. Si vous n'avez pas d'application d'authentification, veuillez contacter le support.",
+    "backButtonText": "Retour aux autres méthodes",
+    "forgotButtonText": "Utiliser les codes de secours",
+    "buttonText": "Se connecter avec l'application Authenticator",
+    "otpLabel": "Entrez le code d'authentification"
+  }
+}

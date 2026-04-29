@@ -1,0 +1,10 @@
+{
+  "account-suspended": {
+    "title": "Compte temporairement suspendu",
+    "timerText": "Réessayez dans %s minutes, %s secondes",
+    "timerSecondsText": "Réessayez dans %s secondes",
+    "description": "Votre compte a été temporairement verrouillé en raison de plusieurs tentatives de connexion échouées. Veuillez suivre les étapes ci-dessous pour retrouver l'accès.",
+    "footerText": "Besoin d'aide ? ",
+    "footerLinkText": "Contacter le support"
+  }
+}

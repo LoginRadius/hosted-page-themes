@@ -1,0 +1,7 @@
+{
+  "email-selector": {
+    "title": "Select an EmailId",
+    "description": "Choose the email address where you’d like to receive your OTP.",
+    "footerLinkText": "Back to other methods"
+  }
+}

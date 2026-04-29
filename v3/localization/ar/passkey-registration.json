@@ -1,0 +1,17 @@
+{
+  "passkey-registration": {
+    "title": "تسجيل مفتاح المرور",
+    "description": "قم بتأمين حسابك باستخدام مفتاح المرور.",
+    "buttonText": "متابعة",
+    "emailLabel": "البريد الإلكتروني",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "passkeyButtonText": "المتابعة باستخدام مفتاح المرور",
+    "pinLabel": "الرقم السري",
+    "pinPlaceholder": "أدخل الرقم السري",
+    "confirmPinLabel": "تأكيد الرقم السري",
+    "confirmPinPlaceholder": "أعد إدخال الرقم السري",
+    "footerText": "هل لديك حساب بالفعل؟",
+    "footerLinkText": "تسجيل الدخول",
+    "terms": ""
+  }
+}

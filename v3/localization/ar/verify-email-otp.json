@@ -1,0 +1,11 @@
+{
+  "verify-email-otp": {
+    "title": "التحقق من البريد الإلكتروني",
+    "description": "تحقق من بريدك الإلكتروني قبل تسجيل الدخول",
+    "buttonText": "التحقق من OTP",
+    "footerText": "لم تستلم البريد الإلكتروني؟",
+    "footerLinkText": "إعادة الإرسال",
+    "skipButtonText": "تخطي حاليًا",
+    "otpLabel": "أدخل رمز OTP"
+  }
+}

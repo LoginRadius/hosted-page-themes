@@ -1,0 +1,10 @@
+{
+  "authenticator-login": {
+    "title": "Authenticator-inloggning",
+    "description": "Ange koden från din autentiseringsapp. Om du inte har en autentiseringsapp, vänligen kontakta support.",
+    "backButtonText": "Tillbaka till andra metoder",
+    "forgotButtonText": "Använd reservkoder",
+    "buttonText": "Logga in med autentiseringsapp",
+    "otpLabel": "Ange autentiseringskod"
+  }
+}

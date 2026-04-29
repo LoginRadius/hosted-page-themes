@@ -1,0 +1,16 @@
+{
+  "forgot-pin": {
+    "title": "Glömt PIN-kod",
+    "description": "Ange din e-postadress/telefon så skickar vi en OTP för att återställa din PIN-kod.",
+    "submitButtonText": "Skicka instruktioner",
+    "backButtonText": "Tillbaka till inloggning",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Ange din e-post",
+    "phoneLabel": "Telefonnummer",
+    "phonePlaceholder": "Ange ditt telefonnummer",
+    "usernameLabel": "Användarnamn",
+    "usernamePlaceholder": "Ange ditt användarnamn",
+    "emailUsernameLabel": "E-post eller användarnamn",
+    "emailUsernamePlaceholder": "Ange din e-post eller användarnamn"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "forgot-pin": {
+    "title": "Code PIN oublié",
+    "description": "Entrez votre adresse email/numéro de téléphone et nous vous enverrons un OTP pour réinitialiser votre code PIN.",
+    "submitButtonText": "Envoyer les instructions",
+    "backButtonText": "Retour à la connexion",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Entrez votre email",
+    "phoneLabel": "Numéro de téléphone",
+    "phonePlaceholder": "Entrez votre numéro de téléphone",
+    "usernameLabel": "Nom d'utilisateur",
+    "usernamePlaceholder": "Entrez votre nom d'utilisateur",
+    "emailUsernameLabel": "Email ou nom d'utilisateur",
+    "emailUsernamePlaceholder": "Entrez votre email ou nom d'utilisateur"
+  }
+}

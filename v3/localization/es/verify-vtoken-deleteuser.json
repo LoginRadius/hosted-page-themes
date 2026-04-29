@@ -1,0 +1,9 @@
+{
+  "verify-vtoken-deleteuser": {
+    "title": "Eliminando su cuenta",
+    "successTitle": "Cuenta eliminada",
+    "errorTitle": "Error al eliminar",
+    "description": "Por favor, espere mientras procesamos su solicitud de eliminación de cuenta.",
+    "buttonText": "Volver a iniciar sesión"
+  }
+}

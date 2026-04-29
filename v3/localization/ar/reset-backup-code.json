@@ -1,0 +1,14 @@
+{
+  "reset-backup-code": {
+    "title": "إعادة تعيين رمز النسخ الاحتياطي",
+    "resetButtonText": "إعادة تعيين",
+    "copyButtonText": "نسخ",
+    "closeButtonText": "إغلاق",
+    "copySuccessText": "تم النسخ إلى الحافظة",
+    "resetSucceessMessage": "تم إعادة تعيين رمز النسخ الاحتياطي بنجاح. قم بنسخ الرموز الآن لأنها لن تظهر مرة أخرى.",
+    "downloadButtonText": "تنزيل الرموز",
+    "downloadSuccessText": "تم تنزيل رموز النسخ الاحتياطي بنجاح",
+    "modalTitle": "الرموز المحدثة",
+    "description": "في اللحظة التي تقوم فيها بإنشاء رموز جديدة، تصبح جميع الرموز السابقة غير صالحة."
+  }
+}

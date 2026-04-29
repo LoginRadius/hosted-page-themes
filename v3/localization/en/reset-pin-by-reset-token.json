@@ -1,0 +1,12 @@
+{
+  "reset-pin-by-reset-token": {
+    "title": "Reset PIN",
+    "description": "Create a new PIN for your account.",
+    "buttonText": "Reset PIN",
+    "footerText": "Create a strong PIN to keep your account secure.",
+    "newPinLabel": "New PIN",
+    "newPinPlaceholder": "Enter your new PIN",
+    "confirmPinLabel": "Confirm PIN",
+    "confirmPinPlaceholder": "Confirm your new PIN"
+  }
+}

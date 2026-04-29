@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "title": "الحساب",
+    "description": "إدارة معلومات حسابك.",
+    "buttonText": "تسجيل الخروج",
+    "headerText": "مرحبًا",
+    "footerText": "مشغل بواسطة",
+    "sidepanelPrimaryText": "حسابي",
+    "sidepanelSecondaryText": "الأمان"
+  }
+}

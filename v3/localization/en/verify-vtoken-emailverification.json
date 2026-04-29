@@ -1,0 +1,9 @@
+{
+  "verify-vtoken-emailverification": {
+    "title": "Verifying your Email",
+    "successTitle": "Email Verified",
+    "errorTitle": "Verification Failed",
+    "description": "Please wait while we verify your email.",
+    "buttonText": "Back to login"
+  }
+}

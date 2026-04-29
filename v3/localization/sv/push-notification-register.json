@@ -1,0 +1,9 @@
+{
+  "push-notification-register": {
+    "title": "Pushnotisinställning",
+    "description": "Ställ in pushnotiser för snabb och säker autentisering. En testnotis kommer att skickas till din enhet.",
+    "footerText": "Skanna denna QR-kod med din autentiseringsapp för att registrera pushnotiser.",
+    "backButtonText": "Tillbaka till andra metoder",
+    "qrCodeDisplayText": "Skanna QR-koden med din autentiseringsapp"
+  }
+}

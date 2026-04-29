@@ -1,0 +1,20 @@
+{
+  "mfa-selector": {
+    "title": "Autenticación Multifactor",
+    "description": "Seleccione su método preferido para la autenticación multifactor.",
+    "skipText": "Omitir por ahora",
+    "backText": "Volver al inicio de sesión",
+    "emailOtpText": "OTP por correo electrónico",
+    "emailOtpDescription": "Reciba una contraseña de un solo uso a través de su correo electrónico registrado.",
+    "smsOtpText": "OTP por SMS",
+    "smsOtpDescription": "Reciba una contraseña de un solo uso a través de su número móvil.",
+    "authenticatorText": "Aplicación de autenticación",
+    "authenticatorDescription": "Utilice una aplicación de autenticación para generar una contraseña de un solo uso basada en el tiempo.",
+    "pushNotificationText": "Notificación push",
+    "pushNotificationDescription": "Reciba una notificación push en su dispositivo móvil para autenticarse.",
+    "duoSecurityText": "Duo Security",
+    "duoSecurityDescription": "Utilice Duo Security para la autenticación multifactor.",
+    "passkeyText": "Passkey",
+    "passkeyDescription": "Utilice un passkey para una autenticación segura."
+  }
+}

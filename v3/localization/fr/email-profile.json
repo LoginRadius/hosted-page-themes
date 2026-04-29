@@ -1,0 +1,20 @@
+{
+  "email-profile": {
+    "title": "Adresses Email",
+    "addButtonText": "Ajouter un Email",
+    "deleteButtonText": "Supprimer",
+    "saveButtonText": "Enregistrer",
+    "cancelButtonText": "Annuler",
+    "emailTableHeader": "Adresse Email",
+    "typeTableHeader": "Type",
+    "actionTableHeader": "Action",
+    "addMailModalTitle": "Ajouter une adresse email",
+    "deleteMailModalTitle": "Supprimer une adresse email",
+    "deleteMailModalDescription": "Êtes-vous sûr de vouloir supprimer l’adresse e-mail ?",
+    "verifyMailModalTitle": "Vérifier une adresse email",
+    "emailLabel": "Adresse e-mail",
+    "emailPlaceholder": "Saisissez votre adresse e-mail",
+    "typeLabel": "Type",
+    "typePlaceholder": "Saisissez le type"
+  }
+}

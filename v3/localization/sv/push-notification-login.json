@@ -1,0 +1,12 @@
+{
+  "push-notification-login": {
+    "title": "Pushnotisinloggning",
+    "description": "En inloggningsförfrågan har skickats till din mobila enhet. Vänligen godkänn förfrågan för att fortsätta.",
+    "deniedTitle": "Pushnotis nekad",
+    "deniedDescription": "Du har nekat pushnotisförfrågan. Vänligen försök igen eller välj en annan autentiseringsmetod.",
+    "backButtonText": "Tillbaka till andra metoder",
+    "forgotButtonText": "Använd reservkoder",
+    "footerText": "Fick du inte pushnotisen?",
+    "footerLinkText": "Skicka igen"
+  }
+}

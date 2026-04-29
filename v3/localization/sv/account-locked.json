@@ -1,0 +1,9 @@
+{
+  "account-locked": {
+    "title": "Konto tillfälligt låst",
+    "description": "Ditt konto har tillfälligt låsts på grund av flera misslyckade försök. Vänligen logga in igen.",
+    "footerText": "Behöver du hjälp? ",
+    "buttonText": "Försök logga in igen",
+    "footerLinkText": "Kontakta support"
+  }
+}

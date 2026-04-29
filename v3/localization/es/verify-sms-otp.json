@@ -1,0 +1,13 @@
+{
+  "verify-sms-otp": {
+    "title": "Verificar número de teléfono",
+    "description": "Verifique su número de teléfono antes de iniciar sesión",
+    "buttonText": "Verificar OTP",
+    "footerText": "¿No recibió el OTP? Reenviar vía",
+    "footerLinkPrimaryText": "OTP por SMS",
+    "footerLinkSecondaryText": "Vía llamada de voz",
+    "skipButtonText": "Omitir por ahora",
+    "otpLabel": "Ingrese el OTP",
+    "separatorText": "O"
+  }
+}

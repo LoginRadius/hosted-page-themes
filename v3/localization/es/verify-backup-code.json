@@ -1,0 +1,10 @@
+{
+  "verify-backup-code": {
+    "title": "Verificar código de respaldo",
+    "description": "Ingrese su código de respaldo para verificar su cuenta.",
+    "buttonText": "Verificar código de respaldo",
+    "footerLinkText": "Volver al método",
+    "backupCodeLabel": "Código de respaldo",
+    "backupCodePlaceholder": "Ingrese su código de respaldo"
+  }
+}

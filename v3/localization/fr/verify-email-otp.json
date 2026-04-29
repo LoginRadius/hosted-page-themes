@@ -1,0 +1,11 @@
+{
+  "verify-email-otp": {
+    "title": "Vérifier l'email",
+    "description": "Vérifiez votre email avant de vous connecter",
+    "buttonText": "Vérifier OTP",
+    "footerText": "Vous n'avez pas reçu l'email ?",
+    "footerLinkText": "Renvoyer",
+    "skipButtonText": "Passer pour l'instant",
+    "otpLabel": "Entrez l'OTP"
+  }
+}

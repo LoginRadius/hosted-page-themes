@@ -1,0 +1,17 @@
+{
+  "passkey-registration": {
+    "title": "Registrera passnyckel",
+    "description": "Skydda ditt konto med en passnyckel.",
+    "buttonText": "Fortsätt",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Ange din e-post",
+    "passkeyButtonText": "Fortsätt med passnyckel",
+    "pinLabel": "PIN-kod",
+    "pinPlaceholder": "Ange din PIN-kod",
+    "confirmPinLabel": "Bekräfta PIN-kod",
+    "confirmPinPlaceholder": "Bekräfta din PIN-kod",
+    "footerText": "Har du inget konto?",
+    "footerLinkText": "Logga in",
+    "terms": "Vänligen ange dina uppgifter för att logga in."
+  }
+}

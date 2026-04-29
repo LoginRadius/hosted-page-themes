@@ -1,0 +1,10 @@
+{
+  "providers-profile": {
+    "title": "Connected Socials",
+    "unlinkButtonText": "Unlink",
+    "linkButtonText": "Link",
+    "actionTableHeader": "Action",
+    "providerTableHeader": "Name of Social Provider",
+    "statusTableHeader": "Status"
+  }
+}

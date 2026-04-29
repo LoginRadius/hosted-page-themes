@@ -1,0 +1,16 @@
+{
+  "reset-pin-by-otp": {
+    "title": "Reset PIN",
+    "description": "Enter the OTP sent to your email/phone to reset your PIN.",
+    "buttonText": "Reset PIN",
+    "footerText": "Didn't receive the OTP?",
+    "footerLinkText": "Resend",
+    "footerLinkSecondaryText": "Voice Call",
+    "newPinLabel": "New PIN",
+    "newPinPlaceholder": "Enter your new PIN",
+    "confirmPinLabel": "Confirm PIN",
+    "confirmPinPlaceholder": "Confirm your new PIN",
+    "otpLabel": "Enter OTP",
+    "separatorText": "OR"
+  }
+}

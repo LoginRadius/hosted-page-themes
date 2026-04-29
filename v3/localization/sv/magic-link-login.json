@@ -1,0 +1,8 @@
+{
+  "magic-link-login": {
+    "title": "Verifiera ditt konto",
+    "description": "Vi har skickat en magisk länk till din e-post.",
+    "resendButtonText": "Skicka e-post igen",
+    "footerText": "Hittar du inte det skickade e-postmeddelandet? Se till att kontrollera skräppostmappen"
+  }
+}

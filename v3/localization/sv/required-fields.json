@@ -1,0 +1,8 @@
+{
+  "required-fields": {
+    "title": "Ange obligatoriska fält",
+    "description": "Vänligen fyll i de obligatoriska fälten för att fortsätta.",
+    "buttonText": "Spara",
+    "footerText": "Dessa fält är obligatoriska för att fortsätta."
+  }
+}

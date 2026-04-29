@@ -1,0 +1,11 @@
+{
+  "verify-email-otp": {
+    "title": "Verify Email",
+    "description": "Verify your email before login",
+    "buttonText": "Verify OTP",
+    "footerText": "Didn't receive email?",
+    "footerLinkText": "Resend",
+    "skipButtonText": "Skip for now.",
+    "otpLabel": "Enter OTP"
+  }
+}

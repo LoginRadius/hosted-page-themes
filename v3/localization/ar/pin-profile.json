@@ -1,0 +1,20 @@
+{
+  "pin-profile": {
+    "title": "رقم التعريف الشخصي",
+    "changePinButtonText": "تغيير رقم التعريف الشخصي",
+    "setPinButtonText": "تعيين رقم التعريف الشخصي",
+    "lastChangedText": "آخر تغيير",
+    "pinNotEnabledText": "لم يتم تمكين مصادقة رقم التعريف الشخصي.",
+    "saveButtonText": "حفظ",
+    "cancelButtonText": "إلغاء",
+    "actionTableHeader": "الإجراء",
+    "subtitle": "إدارة إعدادات رقم التعريف الشخصي الخاصة بك",
+    "newPinLabel": "رقم التعريف الشخصي الجديد",
+    "newPinPlaceholder": "أدخل رقم التعريف الشخصي الجديد الخاص بك",
+    "confirmPinLabel": "تأكيد رقم التعريف الشخصي",
+    "confirmPinPlaceholder": "أكد رقم التعريف الشخصي الخاص بك",
+    "otpLabel": "رمز التحقق",
+    "otpPlaceholder": "أدخل رمز التحقق",
+    "editModalTitle": "تحديث رقم التعريف الشخصي"
+  }
+}

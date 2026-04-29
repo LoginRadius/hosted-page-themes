@@ -1,0 +1,13 @@
+{
+  "authenticator-setup": {
+    "title": "Configuración de autenticador",
+    "description": "Escanee el código QR con su aplicación de autenticación para configurar la autenticación de dos factores.",
+    "qrcodeText": "Escanee el código QR con su aplicación de autenticación",
+    "buttonText": "Configurar autenticador",
+    "backButtonText": "Volver a otros métodos",
+    "forgotButtonText": "Usar códigos de respaldo",
+    "otpLabel": "Ingrese el código del autenticador",
+    "manualEntryLinkButtonText": "¿Problemas para escanear?",
+    "manualEntryInfo": "Ingrese este código manualmente en su aplicación de autenticación."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "passkey-registration": {
+    "title": "Registrar clave de acceso",
+    "description": "Asegure su cuenta con una clave de acceso.",
+    "buttonText": "Continuar",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "Ingrese su correo electrónico",
+    "passkeyButtonText": "Continuar con clave de acceso",
+    "pinLabel": "PIN",
+    "pinPlaceholder": "Ingrese su PIN",
+    "confirmPinLabel": "Confirmar PIN",
+    "confirmPinPlaceholder": "Confirme su PIN",
+    "footerText": "¿No tiene una cuenta?",
+    "footerLinkText": "Iniciar sesión",
+    "terms": ""
+  }
+}

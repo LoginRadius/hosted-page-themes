@@ -1,0 +1,18 @@
+{
+  "identifier-availability": {
+    "title": "Registrera dig",
+    "description": "Välkommen! Fyll i uppgifterna för att skapa ett konto",
+    "buttonText": "Fortsätt",
+    "emailLabel": "E-post",
+    "emailPlaceholder": "Ange din e-post",
+    "phoneLabel": "Telefonnummer",
+    "phonePlaceholder": "Ange ditt telefonnummer",
+    "usernameLabel": "Användarnamn",
+    "usernamePlaceholder": "Ange ditt användarnamn",
+    "emailUsernameLabel": "E-post eller användarnamn",
+    "emailUsernamePlaceholder": "Ange e-post eller användarnamn",
+    "footerText": "Har du redan ett konto?",
+    "footerLinkText": "Logga in",
+    "terms": ""
+  }
+}

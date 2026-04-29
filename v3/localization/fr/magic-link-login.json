@@ -1,0 +1,8 @@
+{
+  "magic-link-login": {
+    "title": "Vérifier votre compte",
+    "description": "Nous avons envoyé un lien magique à votre email.",
+    "resendButtonText": "Renvoyer l'email",
+    "footerText": "Vous ne trouvez pas l'email envoyé ? Assurez-vous de vérifier le dossier spam"
+  }
+}

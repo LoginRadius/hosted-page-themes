@@ -1,0 +1,21 @@
+{
+  "update-phone": {
+    "title": "Phone Number",
+    "updateButtonText": "Update",
+    "resendButtonText": "Resend OTP",
+    "verifyButtonText": "Verify",
+    "deleteButtonText": "Delete",
+    "submitButtonText": "Submit",
+    "cancelButtonText": "Cancel",
+    "phoneTableHeader": "Phone Number",
+    "actionTableHeader": "Action",
+    "addButtonText": "Add Phone",
+    "updatePhoneModalTitle": "Update Phone Number",
+    "deletePhoneModalTitle": "Delete Phone Number",
+    "deletePhoneModalBody": "Are you sure you want to delete the phone id?",
+    "updatePhoneModalPhoneLabel": "Phone",
+    "updatePhoneModalPhonePlaceholder": "Enter your phone number",
+    "updatePhoneModalOtpLabel": "OTP",
+    "updatePhoneModalOtpPlaceholder": "Enter OTP"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "required-fields": {
+    "title": "Saisir les champs obligatoires",
+    "description": "Veuillez remplir les champs obligatoires pour continuer.",
+    "buttonText": "Enregistrer",
+    "footerText": "Ces champs sont obligatoires pour continuer."
+  }
+}

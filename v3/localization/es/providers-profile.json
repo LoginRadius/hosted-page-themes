@@ -1,0 +1,10 @@
+{
+  "providers-profile": {
+    "title": "Cuentas conectadas",
+    "unlinkButtonText": "Desvincular",
+    "linkButtonText": "Vincular",
+    "actionTableHeader": "Acción",
+    "providerTableHeader": "Nombre del proveedor social",
+    "statusTableHeader": "Estado"
+  }
+}

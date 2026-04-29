@@ -1,0 +1,9 @@
+{
+  "account-locked": {
+    "title": "Account Temporarily Locked",
+    "description": "Your account has been temporarily locked due to multiple failed attempts. Please Login again.",
+    "footerText": "Need help? ",
+    "buttonText": "Retry Login",
+    "footerLinkText": "Contact Support"
+  }
+}

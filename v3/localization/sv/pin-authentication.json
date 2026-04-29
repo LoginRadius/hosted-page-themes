@@ -1,0 +1,12 @@
+{
+  "pin-authentication": {
+    "title": "PIN-autentisering",
+    "description": "Ange din PIN-kod för att fortsätta.",
+    "buttonText": "Autentisera med PIN-kod",
+    "pinLabel": "Ange PIN-kod",
+    "pinPlaceholder": "Ange din PIN-kod",
+    "confirmPinLabel": "Bekräfta PIN-kod",
+    "confirmPinPlaceholder": "Bekräfta din PIN-kod",
+    "footerLinkText": "Logga in med e-post/telefon"
+  }
+}

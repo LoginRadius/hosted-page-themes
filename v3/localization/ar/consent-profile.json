@@ -1,0 +1,15 @@
+{
+  "consent-profile": {
+    "title": "إدارة الموافقات",
+    "description": "إدارة تفضيلات الموافقة الخاصة بك لمختلف الخدمات.",
+    "editButtonText": "تعديل",
+    "saveButtonText": "حفظ",
+    "cancelButtonText": "إلغاء",
+    "modalTitle": "تعديل الموافقات",
+    "consentTableHeader": "الموافقة",
+    "statusTableHeader": "الحالة",
+    "acceptedText": "تم القبول",
+    "notAcceptedText": "لم يتم القبول",
+    "emptyText": "لا توجد موافقات متاحة."
+  }
+}

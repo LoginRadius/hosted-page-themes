@@ -1,0 +1,13 @@
+{
+  "verify-sms-otp": {
+    "title": "التحقق من رقم الهاتف",
+    "description": "تحقق من رقم هاتفك قبل تسجيل الدخول",
+    "buttonText": "التحقق من OTP",
+    "footerText": "لم تستلم رمز OTP؟ إعادة الإرسال عبر",
+    "footerLinkPrimaryText": "رمز SMS",
+    "footerLinkSecondaryText": "مكالمة صوتية",
+    "skipButtonText": "تخطي حاليًا",
+    "otpLabel": "أدخل رمز OTP",
+    "separatorText": "أو"
+  }
+}

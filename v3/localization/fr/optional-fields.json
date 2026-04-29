@@ -1,0 +1,9 @@
+{
+  "optional-fields": {
+    "title": "Complétez votre profil",
+    "description": "Ajoutez les informations supplémentaires de profil que vous souhaitez enregistrer.",
+    "buttonText": "Enregistrer et continuer",
+    "skipButtonText": "Passer pour l'instant",
+    "footerText": "Ces informations sont facultatives et peuvent être ajoutées plus tard."
+  }
+}

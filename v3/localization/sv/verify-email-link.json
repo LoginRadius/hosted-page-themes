@@ -1,0 +1,10 @@
+{
+  "verify-email-link": {
+    "title": "Verifiera e-post",
+    "description": "Vi har skickat en verifieringslänk till din e-post.",
+    "buttonText": "Verifiera e-post",
+    "resendButtonText": "Skicka verifierings-e-post igen",
+    "skipButtonText": "Hoppa över detta steg",
+    "footerText": "Hittar du inte det skickade e-postmeddelandet? Se till att kontrollera skräppostmappen"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "reset-backup-code": {
+    "title": "Restablecer código de respaldo",
+    "resetButtonText": "Restablecer",
+    "copyButtonText": "Copiar",
+    "closeButtonText": "Cerrar",
+    "copySuccessText": "Copiado al portapapeles",
+    "resetSucceessMessage": "Código de respaldo restablecido con éxito. Copie los códigos ahora ya que no se mostrarán nuevamente.",
+    "downloadButtonText": "Descargar códigos",
+    "downloadSuccessText": "Códigos de respaldo descargados con éxito",
+    "modalTitle": "Códigos actualizados",
+    "description": "En el momento en que genere nuevos códigos, todos los códigos anteriores quedarán inválidos."
+  }
+}

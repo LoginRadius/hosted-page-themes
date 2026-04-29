@@ -1,0 +1,15 @@
+{
+  "consent-profile": {
+    "title": "Hantera samtycken",
+    "description": "Hantera dina samtyckesinställningar för olika tjänster.",
+    "editButtonText": "Redigera",
+    "saveButtonText": "Spara",
+    "cancelButtonText": "Avbryt",
+    "modalTitle": "Redigera samtycken",
+    "consentTableHeader": "Samtycke",
+    "statusTableHeader": "Status",
+    "acceptedText": "Accepterat",
+    "notAcceptedText": "Ej accepterat",
+    "emptyText": "Inga samtycken tillgängliga."
+  }
+}

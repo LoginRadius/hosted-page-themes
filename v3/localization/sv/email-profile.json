@@ -1,0 +1,20 @@
+{
+  "email-profile": {
+    "title": "E-postadresser",
+    "addButtonText": "Lägg till e-post",
+    "deleteButtonText": "Ta bort",
+    "saveButtonText": "Spara",
+    "cancelButtonText": "Avbryt",
+    "emailTableHeader": "E-post",
+    "typeTableHeader": "Typ",
+    "actionTableHeader": "Åtgärd",
+    "addMailModalTitle": "Lägg till e-postadress",
+    "deleteMailModalTitle": "Ta bort e-postadress",
+    "deleteMailModalDescription": "Är du säker på att du vill ta bort e-postadressen?",
+    "verifyMailModalTitle": "Verifiera e-postadress",
+    "emailLabel": "E-postadress",
+    "emailPlaceholder": "Ange din e-postadress",
+    "typeLabel": "Typ",
+    "typePlaceholder": "Ange typ"
+  }
+}

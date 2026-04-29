@@ -1,0 +1,22 @@
+{
+  "email-phone-verification": {
+    "emailTitle": "تحقق من بريدك الإلكتروني",
+    "phoneTitle": "تحقق من رقم هاتفك",
+    "switchToPhone": "تحقق من رقم الهاتف",
+    "switchToEmail": "تحقق من البريد الإلكتروني",
+    "emailTableHeader": "البريد الإلكتروني",
+    "phoneTableHeader": "رقم الهاتف",
+    "typeTableHeader": "النوع",
+    "actionTableHeader": "الإجراء",
+    "otpTableHeader": "رمز التحقق",
+    "verifyButtonText": "تحقق",
+    "resendButtonText": "إعادة إرسال رمز التحقق",
+    "noUnverifiedEmails": "جميع عناوين بريدك الإلكتروني تم التحقق منها.",
+    "noUnverifiedPhoneIds": "جميع أرقام هاتفك تم التحقق منها.",
+    "noPhoneIds": "ليس لديك رقم هاتف مرتبط بهذا الحساب.",
+    "emailVerificationTitle": "تحقق من بريدك الإلكتروني",
+    "phoneVerificationTitle": "تحقق من رقم هاتفك",
+    "submitButtonText": "إرسال",
+    "cancelButtonText": "إلغاء"
+  }
+}

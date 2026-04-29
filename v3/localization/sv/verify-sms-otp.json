@@ -1,0 +1,13 @@
+{
+  "verify-sms-otp": {
+    "title": "Verifiera telefonnummer",
+    "description": "Verifiera ditt telefonnummer före inloggning",
+    "buttonText": "Verifiera OTP",
+    "footerText": "Fick du inte OTP? Skicka igen via",
+    "footerLinkPrimaryText": "SMS-kod",
+    "footerLinkSecondaryText": "Röstsamtal",
+    "skipButtonText": "Hoppa över för nu",
+    "otpLabel": "Ange OTP",
+    "separatorText": "ELLER"
+  }
+}

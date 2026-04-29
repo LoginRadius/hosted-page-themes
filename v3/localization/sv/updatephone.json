@@ -1,0 +1,10 @@
+{
+  "updatephone": {
+    "title": "Uppdatera telefonnummer",
+    "description": "Ange ditt nya telefonnummer. Vi skickar en verifieringskod till detta nummer.",
+    "buttonText": "Uppdatera telefonnummer",
+    "footerLinkText": "Tillbaka till andra metoder",
+    "phoneLabel": "Telefonnummer",
+    "phonePlaceholder": "Ange ditt nya telefonnummer"
+  }
+}

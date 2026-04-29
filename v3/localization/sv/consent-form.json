@@ -1,0 +1,9 @@
+{
+  "consent-form": {
+    "title": "Samtyckesformulär",
+    "description": "Vänligen granska och acceptera villkoren.",
+    "buttonText": "Acceptera",
+    "privacyLabel": "Integritetspolicy",
+    "termsOfServiceLabel": "Användarvillkor"
+  }
+}

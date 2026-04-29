@@ -1,0 +1,8 @@
+{
+  "magic-link-login": {
+    "title": "Verify your Account",
+    "description": "We have sent a magic link to your email.",
+    "resendButtonText": "Resend Email",
+    "footerText": "Not able to find the email sent? Make sure to check spam folder"
+  }
+}

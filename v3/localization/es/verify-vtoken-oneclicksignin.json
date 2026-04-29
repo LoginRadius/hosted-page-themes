@@ -1,0 +1,9 @@
+{
+  "verify-vtoken-oneclicksignin": {
+    "title": "Verificando su token",
+    "successTitle": "Inicio de sesión exitoso",
+    "errorTitle": "Error de inicio de sesión",
+    "description": "Por favor, espere mientras verificamos su token.",
+    "buttonText": "Volver a iniciar sesión"
+  }
+}

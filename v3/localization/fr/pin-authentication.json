@@ -1,0 +1,12 @@
+{
+  "pin-authentication": {
+    "title": "Authentification par code PIN",
+    "description": "Entrez votre code PIN pour continuer.",
+    "buttonText": "S'authentifier avec le code PIN",
+    "pinLabel": "Entrez le code PIN",
+    "pinPlaceholder": "Entrez votre code PIN",
+    "confirmPinLabel": "Confirmez le code PIN",
+    "confirmPinPlaceholder": "Confirmez votre code PIN",
+    "footerLinkText": "Connectez-vous avec votre e-mail/téléphone"
+  }
+}

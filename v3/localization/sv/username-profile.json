@@ -1,0 +1,14 @@
+{
+  "username-profile": {
+    "title": "Användarnamn",
+    "editUsernameButtonText": "Redigera",
+    "setUsernameButtonText": "Ställ in användarnamn",
+    "submitButtonText": "Skicka",
+    "cancelButtonText": "Avbryt",
+    "usernameTableHeader": "Användarnamn",
+    "actionTableHeader": "Åtgärd",
+    "modalTitle": "Uppdatera användarnamn",
+    "modalUsernameLabel": "Användarnamn",
+    "modalUsernamePlaceholder": "Ange ditt användarnamn"
+  }
+}

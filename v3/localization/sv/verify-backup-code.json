@@ -1,0 +1,10 @@
+{
+  "verify-backup-code": {
+    "title": "Verifiera reservkod",
+    "description": "Ange din reservkod för att verifiera ditt konto.",
+    "buttonText": "Verifiera reservkod",
+    "footerLinkText": "Tillbaka till metod",
+    "backupCodeLabel": "Reservkod",
+    "backupCodePlaceholder": "Ange din reservkod"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "mfa-passkey": {
+    "title": "Authentification par clé d’accès",
+    "description": "Authentifiez-vous avec votre clé d’accès.",
+    "footerLinkText": "Retour aux autres méthodes"
+  }
+}

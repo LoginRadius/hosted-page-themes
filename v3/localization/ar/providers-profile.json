@@ -1,0 +1,10 @@
+{
+  "providers-profile": {
+    "title": "الحسابات المتصلة",
+    "unlinkButtonText": "فصل",
+    "linkButtonText": "ربط",
+    "actionTableHeader": "الإجراء",
+    "providerTableHeader": "اسم مزود الخدمة الاجتماعية",
+    "statusTableHeader": "الحالة"
+  }
+}

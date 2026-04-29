@@ -1,0 +1,18 @@
+{
+  "identifier-availability": {
+    "title": "Registrarse",
+    "description": "¡Bienvenido! Por favor complete los datos para crear una cuenta",
+    "buttonText": "Continuar",
+    "emailLabel": "Correo electrónico",
+    "emailPlaceholder": "Ingrese su correo electrónico",
+    "phoneLabel": "Número de teléfono",
+    "phonePlaceholder": "Ingrese su número de teléfono",
+    "usernameLabel": "Nombre de usuario",
+    "usernamePlaceholder": "Ingrese su nombre de usuario",
+    "emailUsernameLabel": "Correo o nombre de usuario",
+    "emailUsernamePlaceholder": "Ingrese su correo o nombre de usuario",
+    "footerText": "¿Ya tiene una cuenta?",
+    "footerLinkText": "Iniciar sesión",
+    "terms": ""
+  }
+}

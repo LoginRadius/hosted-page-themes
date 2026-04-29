@@ -1,0 +1,9 @@
+{
+  "verify-vtoken-deleteuser": {
+    "title": "Suppression de votre compte",
+    "successTitle": "Compte supprimé",
+    "errorTitle": "Échec de la suppression",
+    "description": "Veuillez patienter pendant que nous traitons votre demande de suppression de compte.",
+    "buttonText": "Retour à la connexion"
+  }
+}

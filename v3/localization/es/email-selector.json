@@ -1,0 +1,7 @@
+{
+  "email-selector": {
+    "title": "Seleccionar un correo electrónico",
+    "description": "Elige la dirección de correo electrónico donde deseas recibir tu código OTP.",
+    "footerLinkText": "Volver a otros métodos"
+  }
+}

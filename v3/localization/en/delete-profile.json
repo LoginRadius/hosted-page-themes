@@ -1,0 +1,11 @@
+{
+  "delete-profile": {
+    "title": "Delete Account",
+    "deleteAccountButtonText": "Delete Account",
+    "submitButtonText": "Submit",
+    "cancelButtonText": "Cancel",
+    "otpLabel": "Enter OTP",
+    "otpPlaceholder": "Enter OTP",
+    "description": "If you wish to permanently delete your account along with all associated data, please be aware that this action is irreversible. Once completed, you will lose access to all your information and cannot recover it. Ensure that you have considered this decision carefully before proceeding."
+  }
+}

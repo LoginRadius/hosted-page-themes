@@ -1,0 +1,7 @@
+{
+  "mfa-passkey": {
+    "title": "Autentisering med passnyckel",
+    "description": "Autentisera dig med din passnyckel.",
+    "footerLinkText": "Tillbaka till andra metoder"
+  }
+}

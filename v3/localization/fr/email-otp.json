@@ -1,0 +1,12 @@
+{
+  "email-otp": {
+    "title": "Vérification OTP par Email",
+    "description": "Entrez l'OTP envoyé à votre email.",
+    "buttonText": "Vérifier OTP",
+    "backButtonText": "Retour aux autres méthodes",
+    "forgotButtonText": "Utiliser les codes de secours",
+    "footerText": "Vous n'avez pas reçu l'OTP ?",
+    "footerLinkText": "Renvoyer",
+    "otpLabel": "Entrez l'OTP"
+  }
+}

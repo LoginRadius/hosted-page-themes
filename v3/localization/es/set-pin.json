@@ -1,0 +1,12 @@
+{
+  "set-pin": {
+    "title": "Establecer su PIN",
+    "description": "Por favor, ingrese un PIN seguro para continuar.",
+    "buttonText": "Establecer PIN",
+    "pinLabel": "Ingrese el PIN",
+    "pinPlaceholder": "Ingrese su PIN",
+    "confirmPinLabel": "Confirmar PIN",
+    "confirmPinPlaceholder": "Confirme su PIN",
+    "footerLinkText": "Omitir"
+  }
+}

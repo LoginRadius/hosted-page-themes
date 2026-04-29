@@ -1,0 +1,9 @@
+{
+  "consent-form": {
+    "title": "Formulario de consentimiento",
+    "description": "Por favor, revise y acepte los términos.",
+    "buttonText": "Aceptar",
+    "privacyLabel": "Política de Privacidad",
+    "termsOfServiceLabel": "Términos de Servicio"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "authenticator-login": {
+    "title": "Inicio de sesión con autenticador",
+    "description": "Ingrese el código de su aplicación de autenticación. Si no tiene una aplicación de autenticación, comuníquese con el soporte.",
+    "backButtonText": "Volver a otros métodos",
+    "forgotButtonText": "Usar códigos de respaldo",
+    "buttonText": "Iniciar sesión con la aplicación de autenticación",
+    "otpLabel": "Ingrese el código del autenticador"
+  }
+}

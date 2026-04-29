@@ -1,0 +1,22 @@
+{
+  "email-phone-verification": {
+    "emailTitle": "Verificar su correo electrónico",
+    "phoneTitle": "Verificar su número de teléfono",
+    "switchToPhone": "Verificar número de teléfono",
+    "switchToEmail": "Verificar correo electrónico",
+    "emailTableHeader": "Correo electrónico",
+    "phoneTableHeader": "Número de teléfono",
+    "typeTableHeader": "Tipo",
+    "actionTableHeader": "Acción",
+    "otpTableHeader": "OTP",
+    "verifyButtonText": "Verificar",
+    "resendButtonText": "Reenviar OTP",
+    "noUnverifiedEmails": "Todas sus direcciones de correo electrónico están verificadas.",
+    "noUnverifiedPhoneIds": "Todos sus números de teléfono están verificados.",
+    "noPhoneIds": "No tiene ningún número de teléfono vinculado a esta cuenta.",
+    "emailVerificationTitle": "Verifique su correo electrónico",
+    "phoneVerificationTitle": "Verifique su número de teléfono",
+    "submitButtonText": "Enviar",
+    "cancelButtonText": "Cancelar"
+  }
+}

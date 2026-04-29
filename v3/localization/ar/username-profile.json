@@ -1,0 +1,14 @@
+{
+  "username-profile": {
+    "title": "اسم المستخدم",
+    "editUsernameButtonText": "تعديل",
+    "setUsernameButtonText": "تعيين اسم المستخدم",
+    "submitButtonText": "إرسال",
+    "cancelButtonText": "إلغاء",
+    "usernameTableHeader": "اسم المستخدم",
+    "actionTableHeader": "الإجراء",
+    "modalTitle": "تحديث اسم المستخدم",
+    "modalUsernameLabel": "اسم المستخدم",
+    "modalUsernamePlaceholder": "أدخل اسم المستخدم"
+  }
+}

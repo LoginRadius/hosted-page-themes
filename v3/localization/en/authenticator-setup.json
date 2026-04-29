@@ -1,0 +1,13 @@
+{
+  "authenticator-setup": {
+    "title": "Authenticator Setup",
+    "description": "Scan the QR code with your authenticator app to set up two-factor authentication.",
+    "qrcodeText": "Scan the QR code with your authenticator app",
+    "buttonText": "Setup Authenticator",
+    "backButtonText": "Back to Other Methods",
+    "forgotButtonText": "Use Backup Codes",
+    "otpLabel": "Enter Authenticator Code",
+    "manualEntryLinkButtonText": "Trouble Scanning?",
+    "manualEntryInfo": "Enter this code manually in your Authenticator app."
+  }
+}

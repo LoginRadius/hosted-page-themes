@@ -1,0 +1,14 @@
+{
+  "reset-backup-code": {
+    "title": "Återställ säkerhetskoder",
+    "resetButtonText": "Återställ",
+    "copyButtonText": "Kopiera",
+    "closeButtonText": "Stäng",
+    "copySuccessText": "Kopierad till urklipp",
+    "resetSucceessMessage": "Säkerhetskoder återställda. Kopiera koderna nu eftersom de inte kommer att visas igen.",
+    "downloadButtonText": "Ladda ner koder",
+    "downloadSuccessText": "Säkerhetskoder nedladdade",
+    "modalTitle": "Uppdaterade koder",
+    "description": "Så fort du genererar nya koder blir alla tidigare koder ogiltiga."
+  }
+}

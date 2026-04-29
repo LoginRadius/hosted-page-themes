@@ -1,0 +1,10 @@
+{
+  "providers-profile": {
+    "title": "Comptes connectés",
+    "unlinkButtonText": "Dissocier",
+    "linkButtonText": "Lier",
+    "actionTableHeader": "Action",
+    "providerTableHeader": "Nom du fournisseur social",
+    "statusTableHeader": "Statut"
+  }
+}

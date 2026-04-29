@@ -1,0 +1,10 @@
+{
+  "account-suspended": {
+    "title": "Konto tillfälligt avstängt",
+    "timerText": "Försök igen om %s minuter, %s sekunder",
+    "timerSecondsText": "Försök igen om %s sekunder",
+    "description": "Ditt konto har tillfälligt låsts på grund av flera misslyckade inloggningsförsök. Vänligen följ stegen nedan för att återfå åtkomst.",
+    "footerText": "Behöver du hjälp? ",
+    "footerLinkText": "Kontakta support"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "account-locked": {
+    "title": "Cuenta bloqueada temporalmente",
+    "description": "Su cuenta ha sido bloqueada temporalmente debido a múltiples intentos fallidos. Por favor, inicie sesión nuevamente.",
+    "footerText": "¿Necesita ayuda? ",
+    "buttonText": "Reintentar inicio de sesión",
+    "footerLinkText": "Contactar soporte"
+  }
+}

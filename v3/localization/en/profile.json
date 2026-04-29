@@ -1,0 +1,11 @@
+{
+  "profile": {
+    "title": "Account",
+    "description": "Manage your account information.",
+    "buttonText": "Logout",
+    "headerText": "Welcome",
+    "footerText": "Powered By",
+    "sidepanelPrimaryText": "My Account",
+    "sidepanelSecondaryText": "Security"
+  }
+}

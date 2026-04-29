@@ -1,0 +1,9 @@
+{
+  "push-notification-register": {
+    "title": "Push Notification Setup",
+    "description": "Set up push notifications for quick and secure authentication. A test notification will be sent to your device.",
+    "footerText": "Scan this QR code with your authenticator app to register for push notifications.",
+    "qrCodeDisplayText": "Scan the QR code with your authenticator app",
+    "backButtonText": "Back to Other Methods"
+  }
+}

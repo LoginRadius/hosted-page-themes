@@ -1,0 +1,10 @@
+{
+  "account-suspended": {
+    "title": "Cuenta suspendida temporalmente",
+    "timerText": "Inténtelo de nuevo en %s minutos, %s segundos",
+    "timerSecondsText": "Inténtelo de nuevo en %s segundos",
+    "description": "Su cuenta ha sido bloqueada temporalmente debido a múltiples intentos de inicio de sesión fallidos. Siga los pasos a continuación para recuperar el acceso.",
+    "footerText": "¿Necesita ayuda? ",
+    "footerLinkText": "Contactar soporte"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "update-phone": {
+    "title": "Telefonnummer",
+    "updateButtonText": "Uppdatera",
+    "resendButtonText": "Skicka OTP igen",
+    "verifyButtonText": "Verifiera",
+    "deleteButtonText": "Radera",
+    "submitButtonText": "Skicka",
+    "cancelButtonText": "Avbryt",
+    "phoneTableHeader": "Telefonnummer",
+    "actionTableHeader": "Åtgärd",
+    "addButtonText": "Lägg till telefon",
+    "updatePhoneModalTitle": "Uppdatera telefonnummer",
+    "deletePhoneModalTitle": "Radera telefonnummer",
+    "deletePhoneModalBody": "Är du säker på att du vill radera telefon-ID?",
+    "updatePhoneModalPhoneLabel": "Telefon",
+    "updatePhoneModalPhonePlaceholder": "Ange ditt telefonnummer",
+    "updatePhoneModalOtpLabel": "OTP",
+    "updatePhoneModalOtpPlaceholder": "Ange OTP"
+  }
+}

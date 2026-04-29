@@ -1,0 +1,17 @@
+{
+  "passkey-registration": {
+    "title": "Register Passkey",
+    "description": "Secure your account with a passkey.",
+    "buttonText": "Continue",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Enter your email",
+    "passkeyButtonText": "Continue with Passkey",
+    "pinLabel": "PIN",
+    "pinPlaceholder": "Enter your PIN",
+    "confirmPinLabel": "Confirm PIN",
+    "confirmPinPlaceholder": "Confirm your PIN",
+    "footerText": "Already have an account?",
+    "footerLinkText": "Login",
+    "terms": ""
+  }
+}
