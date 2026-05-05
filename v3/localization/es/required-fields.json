@@ -1,8 +1,0 @@
-{
-  "required-fields": {
-    "title": "Ingrese los campos requeridos",
-    "description": "Por favor, complete los campos requeridos para continuar.",
-    "buttonText": "Guardar",
-    "footerText": "Estos campos son obligatorios para continuar."
-  }
-}

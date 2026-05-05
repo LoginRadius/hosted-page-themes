@@ -1,8 +1,0 @@
-{
-  "account-blocked": {
-    "title": "Cuenta bloqueada",
-    "description": "Su cuenta ha sido bloqueada debido a actividad sospechosa. Comuníquese con el soporte para recuperar el acceso.",
-    "footerText": "¿Necesita ayuda? ",
-    "footerLinkText": "Contactar soporte"
-  }
-}

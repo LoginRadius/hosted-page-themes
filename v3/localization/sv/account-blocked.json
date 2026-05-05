@@ -1,8 +1,0 @@
-{
-  "account-blocked": {
-    "title": "Konto blockerat",
-    "description": "Ditt konto har blockerats på grund av misstänkt aktivitet. Vänligen kontakta support för att återfå åtkomst.",
-    "footerText": "Behöver du hjälp? ",
-    "footerLinkText": "Kontakta support"
-  }
-}

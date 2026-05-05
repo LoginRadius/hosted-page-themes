@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-emailverification": {
-    "title": "Verificando su correo electrónico",
-    "successTitle": "Correo electrónico verificado",
-    "errorTitle": "Error de verificación",
-    "description": "Por favor, espere mientras verificamos su correo electrónico.",
-    "buttonText": "Volver a iniciar sesión"
-  }
-}

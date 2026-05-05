@@ -1,8 +1,0 @@
-{
-  "account-blocked": {
-    "title": "Compte bloqué",
-    "description": "Votre compte a été bloqué en raison d'activités suspectes. Veuillez contacter le support pour retrouver l'accès.",
-    "footerText": "Besoin d'aide ? ",
-    "footerLinkText": "Contacter le support"
-  }
-}

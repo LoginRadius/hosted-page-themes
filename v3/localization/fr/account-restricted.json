@@ -1,8 +1,0 @@
-{
-  "account-restricted": {
-    "title": "Compte temporairement restreint",
-    "description": "Votre compte a été temporairement verrouillé en raison de plusieurs tentatives de connexion échouées. Pour des raisons de sécurité, veuillez compléter le CAPTCHA ci-dessous pour prouver que vous êtes humain.",
-    "footerText": "Besoin d'aide ? ",
-    "footerLinkText": "Contacter le support"
-  }
-}

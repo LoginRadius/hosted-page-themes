@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-oneclicksignin": {
-    "title": "Verifierar din token",
-    "successTitle": "Inloggning lyckades",
-    "errorTitle": "Inloggning misslyckades",
-    "description": "Vänligen vänta medan vi verifierar din token.",
-    "buttonText": "Tillbaka till inloggning"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-deleteuser": {
-    "title": "حذف حسابك",
-    "successTitle": "تم حذف الحساب",
-    "errorTitle": "فشل الحذف",
-    "description": "يرجى الانتظار أثناء معالجة طلب حذف حسابك.",
-    "buttonText": "العودة إلى تسجيل الدخول"
-  }
-}

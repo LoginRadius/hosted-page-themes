@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-emailverification": {
-    "title": "التحقق من رمزك",
-    "successTitle": "تم التحقق من البريد الإلكتروني",
-    "errorTitle": "فشل التحقق",
-    "description": "يرجى الانتظار أثناء التحقق من بريدك الإلكتروني.",
-    "buttonText": "العودة إلى تسجيل الدخول"
-  }
-}

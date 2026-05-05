@@ -1,9 +1,0 @@
-{
-  "optional-fields": {
-    "title": "Complete su perfil",
-    "description": "Agregue cualquier detalle adicional de perfil que desee guardar.",
-    "buttonText": "Guardar y continuar",
-    "skipButtonText": "Omitir por ahora",
-    "footerText": "Estos detalles son opcionales y se pueden agregar más tarde."
-  }
-}

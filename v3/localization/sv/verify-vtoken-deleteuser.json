@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-deleteuser": {
-    "title": "Tar bort ditt konto",
-    "successTitle": "Account Deleted",
-    "errorTitle": "Deletion Failed",
-    "description": "Please wait while we process your account deletion request.",
-    "buttonText": "Tillbaka till inloggning"
-  }
-}

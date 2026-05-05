@@ -1,9 +1,0 @@
-{
-  "optional-fields": {
-    "title": "Complete Your Profile",
-    "description": "Add any extra profile details you want to save.",
-    "buttonText": "Save and continue",
-    "skipButtonText": "Skip for now",
-    "footerText": "These details are optional and can be added later."
-  }
-}

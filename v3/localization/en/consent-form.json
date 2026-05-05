@@ -1,9 +1,0 @@
-{
-  "consent-form": {
-    "title": "Consent Form",
-    "description": "Please review and accept the terms.",
-    "buttonText": "Continue",
-    "privacyLabel": "Privacy Policy",
-    "termsOfServiceLabel": "Terms of Service"
-  }
-}

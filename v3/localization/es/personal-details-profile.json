@@ -1,9 +1,0 @@
-{
-  "personal-details-profile": {
-    "title": "Detalles personales",
-    "saveButtonText": "Guardar",
-    "cancelButtonText": "Cancelar",
-    "editButtonText": "Editar detalles",
-    "modalTitle": "Editar detalles personales"
-  }
-}

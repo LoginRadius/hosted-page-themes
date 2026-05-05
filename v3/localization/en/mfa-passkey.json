@@ -1,7 +1,0 @@
-{
-  "mfa-passkey": {
-    "title": "Passkey Authentication",
-    "description": "Authenticate using your passkey.",
-    "footerLinkText": "Back to Other Methods"
-  }
-}

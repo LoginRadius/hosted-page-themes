@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-oneclicksignin": {
-    "title": "Vérification de votre Token",
-    "successTitle": "Connexion réussie",
-    "errorTitle": "Échec de la connexion",
-    "description": "Veuillez patienter pendant que nous vérifions votre token.",
-    "buttonText": "Retour à la connexion"
-  }
-}

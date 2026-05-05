@@ -1,8 +1,0 @@
-{
-  "verification-failed": {
-    "title": "Verificación fallida",
-    "description": "El enlace de verificación no es válido o ha expirado. Por favor, inténtelo de nuevo.",
-    "footerLinkText": "Volver a iniciar sesión",
-    "footerText": "¿Necesita ayuda?"
-  }
-}

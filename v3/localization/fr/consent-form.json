@@ -1,9 +1,0 @@
-{
-  "consent-form": {
-    "title": "Formulaire de consentement",
-    "description": "Veuillez examiner et accepter les conditions.",
-    "buttonText": "Accepter",
-    "privacyLabel": "Politique de confidentialité",
-    "termsOfServiceLabel": "Conditions d'utilisation"
-  }
-}

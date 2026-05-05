@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-oneclicksignin": {
-    "title": "Verifying your Token",
-    "successTitle": "Login successful",
-    "errorTitle": "Login Failed",
-    "description": "Please wait while we verify your token.",
-    "buttonText": "Back to login"
-  }
-}

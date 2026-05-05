@@ -1,8 +1,0 @@
-{
-  "account-restricted": {
-    "title": "Konto tillfälligt begränsat",
-    "description": "Ditt konto har tillfälligt låsts på grund av flera misslyckade inloggningsförsök. Av säkerhetsskäl, vänligen slutför CAPTCHA nedan för att bevisa att du är människa.",
-    "footerText": "Behöver du hjälp? ",
-    "footerLinkText": "Kontakta support"
-  }
-}

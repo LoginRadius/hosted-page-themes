@@ -1,9 +1,0 @@
-{
-  "verify-vtoken-emailverification": {
-    "title": "Verifierar din e-post",
-    "successTitle": "E-post verifierad",
-    "errorTitle": "Verifiering misslyckades",
-    "description": "Vänligen vänta medan vi verifierar din e-post.",
-    "buttonText": "Tillbaka till inloggning"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "optional-fields": {
-    "title": "Fyll i din profil",
-    "description": "Lägg till eventuella extra profiluppgifter du vill spara.",
-    "buttonText": "Spara och fortsätt",
-    "skipButtonText": "Hoppa över för nu",
-    "footerText": "Dessa uppgifter är valfria och kan läggas till senare."
-  }
-}

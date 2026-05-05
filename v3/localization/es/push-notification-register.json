@@ -1,9 +1,0 @@
-{
-  "push-notification-register": {
-    "title": "Configuración de notificación push",
-    "description": "Configure las notificaciones push para una autenticación rápida y segura. Se enviará una notificación de prueba a su dispositivo.",
-    "footerText": "Escanee este código QR con su aplicación de autenticación para registrarse en las notificaciones push.",
-    "backButtonText": "Volver a otros métodos",
-    "qrCodeDisplayText": "Escanee el código QR con su aplicación de autenticación"
-  }
-}

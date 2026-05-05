@@ -1,8 +1,0 @@
-{
-  "account-blocked": {
-    "title": "Account Blocked",
-    "description": "Your account has been blocked due to suspicious activity. Please contact support to regain access.",
-    "footerText": "Need help? ",
-    "footerLinkText": "Contact Support"
-  }
-}

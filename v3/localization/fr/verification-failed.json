@@ -1,8 +1,0 @@
-{
-  "verification-failed": {
-    "title": "Échec de la vérification",
-    "description": "Le lien de vérification est invalide ou a expiré. Veuillez réessayer.",
-    "footerLinkText": "Retour à la connexion",
-    "footerText": "Besoin d'aide ?"
-  }
-}

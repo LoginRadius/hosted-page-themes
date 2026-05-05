@@ -1,9 +1,0 @@
-{
-  "account-locked": {
-    "title": "Compte temporairement verrouillé",
-    "description": "Votre compte a été temporairement verrouillé en raison de plusieurs tentatives échouées. Veuillez vous reconnecter.",
-    "footerText": "Besoin d'aide ? ",
-    "buttonText": "Réessayer la connexion",
-    "footerLinkText": "Contacter le support"
-  }
-}

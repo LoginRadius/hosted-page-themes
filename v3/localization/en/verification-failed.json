@@ -1,8 +1,0 @@
-{
-  "verification-failed": {
-    "title": "Verification Failed",
-    "description": "The verification link is invalid or has expired. Please try again.",
-    "footerLinkText": "Back to Login",
-    "footerText": "Need help?"
-  }
-}

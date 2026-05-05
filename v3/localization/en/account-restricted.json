@@ -1,8 +1,0 @@
-{
-  "account-restricted": {
-    "title": "Account Temporarily Restricted",
-    "description": "Your account has been temporarily locked due to multiple failed login attempts. For security reasons, please complete the CAPTCHA below to prove you’re human.",
-    "footerText": "Need help?",
-    "footerLinkText": "Contact Support"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "required-fields": {
-    "title": "Enter Required Fields",
-    "description": "Please fill in the required fields to proceed.",
-    "buttonText": "Save",
-    "footerText": "These fields are required to proceed."
-  }
-}

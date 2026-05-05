@@ -1,8 +1,0 @@
-{
-  "verification-failed": {
-    "title": "Verifikation misslyckades",
-    "description": "Verifikationslänken är ogiltig eller har gått ut. Vänligen försök igen.",
-    "footerLinkText": "Tillbaka till inloggning",
-    "footerText": "Behöver du hjälp?"
-  }
-}
